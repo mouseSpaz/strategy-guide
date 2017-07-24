@@ -26,7 +26,7 @@ The *Kitfoxes Strategy Guide* is an attempt to create a complete breakdown of th
 - [ ] [Anchor](role-overviews/ANCHOR.md)
 - [ ] [Rotator](role-overviews/ROTATOR.md)
 
-## Rearch is practice
+## Research is practice
 
 #### Player Building
 - [ ] Identifying your natural role.
