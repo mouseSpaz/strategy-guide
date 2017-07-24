@@ -5,8 +5,6 @@
 ## Introduction
 The *Kitfoxes Strategy Guide* is an attempt to create a complete breakdown of the fundamental concepts required to develop a successful competitive CS:GO team. The ideas and concepts are based on over a decade of first-hand experience at all amateur levels of the game.
 
-The basic strategy guide will always be open-source, however I encourage others to fork it and make it their own. 
-
 ## Map analysis 
 - [ ] [Cache](map-breakdown/CACHE.md)
 - [ ] [Cobblestone](map-breakdown/COBBLESTONE.md)
