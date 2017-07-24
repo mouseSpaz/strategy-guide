@@ -8,7 +8,9 @@ The *Kitfoxes Strategy Guide* is an attempt to create a complete breakdown of th
 ## Terminology
 
 > **Dynamic Defense** - 
+
 > **Static Defense** - 
+
 [View All](TERMS.md)
 
 ## Map analysis 
