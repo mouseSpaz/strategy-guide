@@ -46,7 +46,7 @@ post_date: 2018-11-05 00:26:47
         Get the fundamentals down and the level of everything you do will rise.
       </p>
       
-      <cite>True G.O.A.T.</cite>
+      <cite>Michael Jordan</cite>
     </blockquote>
     
     <!-- /wp:quote -->
