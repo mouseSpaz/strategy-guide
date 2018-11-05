@@ -85,10 +85,10 @@ Much of our strategical and analytical content is reserved for members only. Her
 
 <!-- wp:latest-posts {"displayPostDate":true} /-->
 
-<!-- wp:button -->
+<!-- wp:button {"backgroundColor":"pale-cyan-blue","textColor":"very-dark-gray"} -->
 
 <div class="wp-block-button">
-  <a class="wp-block-button__link" href="http://mousespaz.com/signup">Begin Application Process</a>
+  <a class="wp-block-button__link has-text-color has-very-dark-gray-color has-background has-pale-cyan-blue-background-color" href="http://mousespaz.com/signup">Begin Application Process</a>
 </div>
 
 <!-- /wp:button -->
