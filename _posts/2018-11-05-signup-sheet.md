@@ -132,9 +132,3 @@ Much of our strategical and analytical content is reserved for members only. Her
 </div>
 
 <!-- /wp:button -->
-
-<!-- wp:paragraph -->
-
-
-
-<!-- /wp:paragraph -->
