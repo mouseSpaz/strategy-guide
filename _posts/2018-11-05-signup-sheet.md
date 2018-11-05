@@ -89,9 +89,9 @@ Much of our strategical and analytical content is reserved for members only. Her
 
 <div class="wp-block-media-text alignwide">
   <figure class="wp-block-media-text__media"><img src="https://mousespaz.com/app/uploads/2018/11/turtle2-copy.png" alt="" /></figure><div class="wp-block-media-text__content">
-    <!-- wp:paragraph {"placeholder":"Content…","fontSize":"large"} -->
+    <!-- wp:paragraph {"placeholder":"Content…","fontSize":"medium"} -->
     
-    <p class="has-large-font-size">
+    <p class="has-medium-font-size">
       Dates & Times
     </p>
     
