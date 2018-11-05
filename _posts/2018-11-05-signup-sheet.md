@@ -33,14 +33,40 @@ post_date: 2018-11-05 00:26:47
 
 <!-- /wp:media-text -->
 
-<!-- wp:quote -->
+<!-- wp:columns -->
 
-<blockquote class="wp-block-quote">
-  <p>
-    Get the fundamentals down and the level of everything you do will rise.
-  </p>
+<div class="wp-block-columns has-2-columns">
+  <!-- wp:column -->
   
-  <cite>True G.O.A.T.</cite>
-</blockquote>
+  <div class="wp-block-column">
+    <!-- wp:quote -->
+    
+    <blockquote class="wp-block-quote">
+      <p>
+        Get the fundamentals down and the level of everything you do will rise.
+      </p>
+      
+      <cite>True G.O.A.T.</cite>
+    </blockquote>
+    
+    <!-- /wp:quote -->
+  </div>
+  
+  <!-- /wp:column -->
+  
+  <!-- wp:column -->
+  
+  <div class="wp-block-column">
+    <!-- wp:paragraph {"dropCap":true} -->
+    
+    <p class="has-drop-cap">
+      Study the game with teammates and clan members who take the game as seriously as you.
+    </p>
+    
+    <!-- /wp:paragraph -->
+  </div>
+  
+  <!-- /wp:column -->
+</div>
 
-<!-- /wp:quote -->
+<!-- /wp:columns -->
