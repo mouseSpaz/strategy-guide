@@ -60,7 +60,7 @@ post_date: 2018-11-05 00:26:47
     <!-- wp:paragraph {"dropCap":true} -->
     
     <p class="has-drop-cap">
-      Study the game with teammates and clan members who take the game as seriously as you do. Our teams provide structure and enforces that bare-minimum requirements are met from all of it's active players.
+      Study the game with teammates and clan members who take the game as seriously as you do. Coaching staff provides structure through enforcing bare-minimum time commitment requirements are met from all of it's active players.
     </p>
     
     <!-- /wp:paragraph -->
