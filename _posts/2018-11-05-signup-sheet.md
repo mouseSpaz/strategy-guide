@@ -85,10 +85,10 @@ Much of our strategical and analytical content is reserved for members only. Her
 
 <!-- wp:latest-posts {"displayPostDate":true} /-->
 
-<!-- wp:button {"backgroundColor":"pale-cyan-blue","customTextColor":"#43484b","align":"center","className":"is-style-squared"} -->
+<!-- wp:button {"backgroundColor":"vivid-red","textColor":"very-light-gray","align":"center","className":"is-style-squared"} -->
 
 <div class="wp-block-button aligncenter is-style-squared">
-  <a class="wp-block-button__link has-text-color has-background has-pale-cyan-blue-background-color" href="http://mousespaz.com/signup" style="color:#43484b">Begin Application Process</a>
+  <a class="wp-block-button__link has-text-color has-very-light-gray-color has-background has-vivid-red-background-color" href="http://mousespaz.com/signup">Begin Application Process</a>
 </div>
 
 <!-- /wp:button -->
