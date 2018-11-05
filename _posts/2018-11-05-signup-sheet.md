@@ -1,6 +1,6 @@
 ---
 ID: 7
-post_title: Signup Sheet
+post_title: Tryouts Sheet
 author: Sh3nl0ng
 post_excerpt: ""
 layout: post
