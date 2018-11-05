@@ -79,13 +79,7 @@ post_date: 2018-11-05 00:26:47
 
 <!-- wp:paragraph -->
 
-Many of our articles, strategies and various other analytical content is reserved for members or alumni of the club. Members include actively-participating players, players whom previously played for the club or a small number of players who pay a monthly subscription. 
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-Here's some of our more recent *public* content you might find useful.
+Much of our strategical and analytical content is reserved for members only. Here is some of our recent *public* content you might find useful.
 
 <!-- /wp:paragraph -->
 
