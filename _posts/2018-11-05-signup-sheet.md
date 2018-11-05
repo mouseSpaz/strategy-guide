@@ -39,9 +39,9 @@ post_date: 2018-11-05 00:26:47
   <!-- wp:column -->
   
   <div class="wp-block-column">
-    <!-- wp:quote -->
+    <!-- wp:quote {"className":"is-style-large"} -->
     
-    <blockquote class="wp-block-quote">
+    <blockquote class="wp-block-quote is-style-large">
       <p>
         Get the fundamentals down and the level of everything you do will rise.
       </p>
