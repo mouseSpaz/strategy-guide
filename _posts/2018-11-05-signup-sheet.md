@@ -12,7 +12,7 @@ post_date: 2018-11-05 00:26:47
 <!-- wp:media-text {"mediaId":8,"mediaType":"image"} -->
 
 <div class="wp-block-media-text alignwide">
-  <figure class="wp-block-media-text__media"><img src="https://mousespaz.com/app/uploads/2018/11/IMG_0200.jpg" alt="" /></figure><div class="wp-block-media-text__content">
+  <figure class="wp-block-media-text__media"><img src="https://mousespaz.com/app/uploads/2018/11/IMG_0200-e1541377600604.jpg" alt="" /></figure><div class="wp-block-media-text__content">
     <!-- wp:heading -->
     
     <h2>
