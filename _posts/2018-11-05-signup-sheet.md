@@ -85,6 +85,46 @@ Much of our strategical and analytical content is reserved for members only. Her
 
 <!-- wp:latest-posts {"displayPostDate":true} /-->
 
+<!-- wp:media-text {"mediaId":27,"mediaType":"image"} -->
+
+<div class="wp-block-media-text alignwide">
+  <figure class="wp-block-media-text__media"><img src="https://mousespaz.com/app/uploads/2018/11/turtle2-copy.png" alt="" /></figure><div class="wp-block-media-text__content">
+    <!-- wp:paragraph {"placeholder":"Content…","fontSize":"large"} -->
+    
+    <p class="has-large-font-size">
+      Dates & Times
+    </p>
+    
+    <!-- /wp:paragraph -->
+    
+    <!-- wp:paragraph -->
+    
+    <p>
+      November 20th: Applications Open<br />December 26th: Applications Close
+    </p>
+    
+    <!-- /wp:paragraph -->
+    
+    <!-- wp:paragraph -->
+    
+    <p>
+      January 6th: Tryouts Begin<br />January 20th: Tryouts End
+    </p>
+    
+    <!-- /wp:paragraph -->
+    
+    <!-- wp:paragraph -->
+    
+    <p>
+      January 21st: First Day of PRactice
+    </p>
+    
+    <!-- /wp:paragraph -->
+  </div>
+</div>
+
+<!-- /wp:media-text -->
+
 <!-- wp:button {"backgroundColor":"vivid-red","textColor":"very-light-gray","align":"center","className":"is-style-squared"} -->
 
 <div class="wp-block-button aligncenter is-style-squared">
