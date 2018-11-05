@@ -33,8 +33,14 @@ post_date: 2018-11-05 00:26:47
 
 <!-- /wp:media-text -->
 
-<!-- wp:paragraph -->
+<!-- wp:quote -->
 
+<blockquote class="wp-block-quote">
+  <p>
+    Get the fundamentals down and the level of everything you do will rise.
+  </p>
+  
+  <cite>True G.O.A.T.</cite>
+</blockquote>
 
-
-<!-- /wp:paragraph -->
+<!-- /wp:quote -->
