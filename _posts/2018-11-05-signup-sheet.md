@@ -116,7 +116,7 @@ Much of our strategical and analytical content is reserved for members only. Her
     <!-- wp:paragraph -->
     
     <p>
-      January 21st: First Day of PRactice
+      January 21st: First Day of Practice
     </p>
     
     <!-- /wp:paragraph -->
